@@ -18,15 +18,27 @@ body {
     font-size: 14px;
 }
 
+.weekHeading {
+    display: block;
+    text-align: center;
+    color: #f1faee;
+    background-color: #e63946;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 nav {
     background-color: #A8DADC;
     text-align: center;
+    width: 100%;
+    font-weight: bold;
 }
 
 nav ul {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
+    padding: 5px 0;
 }
 
 nav li {
@@ -52,6 +64,18 @@ h2,
 h3 {
     color: #A8DADC;
     text-decoration: underline;
+}
+
+h1 {
+    font-size: 1.802rem;
+}
+
+h2 {
+    font-size: 1.602rem;
+}
+
+h3 {
+    font-size: 1.424rem;
 }
 
 section {
@@ -86,4 +110,8 @@ img {
 
 .left-align {
     text-align: left;
+}
+
+#introduction {
+    text-align: center;
 }
