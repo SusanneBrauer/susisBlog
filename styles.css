@@ -115,3 +115,17 @@ img {
 #introduction {
     text-align: center;
 }
+
+.highlight {
+    width: 100%;
+    text-align: center;
+    color: #F1FAEE;
+    background-color: #E63946;
+    border: 3px solid #F1FAEE;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.highlight a {
+    color: #1D3557;
+}
