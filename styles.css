@@ -129,3 +129,7 @@ img {
 .highlight a {
     color: #1D3557;
 }
+
+.inactiveLink {
+    color: #A18284;
+}
