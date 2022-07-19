@@ -108,6 +108,10 @@ img {
     width: 100%;
 }
 
+figcaption {
+    font-style: italic;
+}
+
 .left-align {
     text-align: left;
 }
